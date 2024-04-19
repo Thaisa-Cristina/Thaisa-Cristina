@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 
 
  <div>
-   <a href="https://github.com/Thaisa-Cristina">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thaisa-Cristina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisa-Cristina&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/barbaraportes">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisa-cristina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisa-cristina&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -13,5 +13,3 @@
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
 
 </div>
- 
- <br>
