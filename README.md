@@ -1,6 +1,6 @@
 # Olá! Eu sou a Thaisa Cristina 
 
-"Fico feliz que você esteja aqui! Sou um entusiasta da programação e uma Desenvolvedor FullStack, atualmente cursando Engenharia de Software. Combinando conhecimentos de engenharia com minha paixão pelo desenvolvimento de software, meu objetivo é melhorar continuamente minhas habilidades técnicas para entregar resultados de alta qualidade e impactar positivamente as pessoas com meu trabalho.!"
+"Fico feliz que você esteja aqui! Sou um entusiasta da programação e uma Desenvolvedor FullStack, atualmente cursando Engenharia de Software. Combinando conhecimentos de engenharia com minha paixão pelo desenvolvimento de software, meu objetivo é melhorar continuamente minhas habilidades técnicas para entregar resultados de alta qualidade e impactar positivamente as pessoas com meu trabalho."
 
 ### Languages and Technologies
 <a href="https://skillicons.dev">
