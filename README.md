@@ -1,15 +1,15 @@
 # Olá! Eu sou a Thaisa Cristina 
 
-"Fico feliz que você esteja aqui! Sou um entusiasta da programação e uma Desenvolvedor FullStack, atualmente cursando Engenharia de Software. Combinando conhecimentos de engenharia com minha paixão pelo desenvolvimento de software, meu objetivo é melhorar continuamente minhas habilidades técnicas para entregar resultados de alta qualidade e impactar positivamente as pessoas com meu trabalho."
+"Fico feliz que você esteja aqui! Sou uma Desenvolvedora FullStack formada em Engenharia de Software. Combinando meus conhecimentos de engenharia com a paixão pelo desenvolvimento de software, meu objetivo é melhorar continuamente minhas habilidades técnicas para entregar resultados de alta qualidade e impactar positivamente as pessoas com meu trabalho."
 
 ### Languages and Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,dotnet,python" />
 </a>
 
 ### Frameworks and Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mysql"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mysql,flask,django"/>
 </a>
 
 ### Tools and Platforms
@@ -45,4 +45,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thaisa-Cristina/Thaisa-Cristina/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-
